@@ -1,0 +1,4 @@
+comment = 'Tutorial FDW.'
+default_version = '1.0'
+module_pathname = '$libdir/tutorial_fdw'
+relocatable = true
